@@ -1,0 +1,76 @@
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\appsettings.Development.json
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\appsettings.json
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.staticwebassets.runtime.json
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.exe
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.deps.json
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.runtimeconfig.json
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.dll
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.pdb
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\ServiceStack.dll
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\ServiceStack.Client.dll
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\ServiceStack.Common.dll
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\ServiceStack.Text.dll
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.csproj.AssemblyReference.cache
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.AssemblyInfoInputs.cache
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.AssemblyInfo.cs
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.csproj.CoreCompileInputs.cache
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.MvcApplicationPartsAssemblyInfo.cs
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.MvcApplicationPartsAssemblyInfo.cache
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.RazorAssemblyInfo.cache
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.RazorAssemblyInfo.cs
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets\msbuild.PIS_Lab1_CORE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets\msbuild.build.PIS_Lab1_CORE.props
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PIS_Lab1_CORE.props
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PIS_Lab1_CORE.props
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets.build.json
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets.development.json
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\scopedcss\bundle\PIS_Lab1_CORE.styles.css
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\scopedcss\projectbundle\PIS_Lab1_CORE.bundle.scp.css
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.csproj.CopyComplete
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.dll
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\refint\PIS_Lab1_CORE.dll
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.pdb
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.genruntimeconfig.cache
+D:\СТРWП\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\ref\PIS_Lab1_CORE.dll
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\appsettings.Development.json
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\appsettings.json
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.staticwebassets.runtime.json
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.exe
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.deps.json
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.runtimeconfig.json
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.dll
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\PIS_Lab1_CORE.pdb
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\ServiceStack.dll
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\ServiceStack.Client.dll
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\ServiceStack.Common.dll
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\bin\Debug\net6.0\ServiceStack.Text.dll
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.csproj.AssemblyReference.cache
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.AssemblyInfoInputs.cache
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.AssemblyInfo.cs
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.csproj.CoreCompileInputs.cache
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.MvcApplicationPartsAssemblyInfo.cs
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.MvcApplicationPartsAssemblyInfo.cache
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.RazorAssemblyInfo.cache
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.RazorAssemblyInfo.cs
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets\msbuild.PIS_Lab1_CORE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets\msbuild.build.PIS_Lab1_CORE.props
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PIS_Lab1_CORE.props
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PIS_Lab1_CORE.props
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets.build.json
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\staticwebassets.development.json
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\scopedcss\bundle\PIS_Lab1_CORE.styles.css
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\scopedcss\projectbundle\PIS_Lab1_CORE.bundle.scp.css
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.csproj.CopyComplete
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.dll
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\refint\PIS_Lab1_CORE.dll
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.pdb
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\PIS_Lab1_CORE.genruntimeconfig.cache
+D:\СТРW\Лабораторная работа №1\PIS_Lab1_CORE\PIS_Lab1_CORE\obj\Debug\net6.0\ref\PIS_Lab1_CORE.dll

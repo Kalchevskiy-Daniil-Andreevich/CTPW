@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASPCMVC07
+build_property.RootNamespace = ASPCMVC07
+build_property.ProjectDir = D:\СТРW\Лабораторная работа №3\ASPCMVC01\ASPCMVC07\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\СТРW\Лабораторная работа №3\ASPCMVC01\ASPCMVC07
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC07/Views/TAResearch/DELETEM06.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFSZXNlYXJjaFxERUxFVEVNMDYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC07/Views/TAResearch/GETM04.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFSZXNlYXJjaFxHRVRNMDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC07/Views/TAResearch/GETM05.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFSZXNlYXJjaFxHRVRNMDUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC07/Views/TAResearch/GETM06.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFSZXNlYXJjaFxHRVRNMDYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC07/Views/TAResearch/POSTM05.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFSZXNlYXJjaFxQT1NUTTA1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC07/Views/TAResearch/POSTM08.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFSZXNlYXJjaFxQT1NUTTA4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC07/Views/TAResearch/PUTM07.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEFSZXNlYXJjaFxQVVRNMDcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

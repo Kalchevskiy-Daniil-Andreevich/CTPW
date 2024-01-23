@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASPCMVC06
+build_property.RootNamespace = ASPCMVC06
+build_property.ProjectDir = D:\СТРW\Лабораторная работа №3\ASPCMVC01\ASPCMVC06\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\СТРW\Лабораторная работа №3\ASPCMVC01\ASPCMVC06
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC06/Views/TMResearch/GETM01.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE1SZXNlYXJjaFxHRVRNMDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC06/Views/TMResearch/GETM02.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE1SZXNlYXJjaFxHRVRNMDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC06/Views/TMResearch/GETM03.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE1SZXNlYXJjaFxHRVRNMDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/СТРW/Лабораторная работа №3/ASPCMVC01/ASPCMVC06/Views/TMResearch/MXX.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE1SZXNlYXJjaFxNWFguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

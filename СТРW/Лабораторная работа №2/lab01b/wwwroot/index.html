@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        input, button {
+            padding: 8px;
+            font-size: 16px;
+        }
+
+        button {
+            cursor: pointer;
+        }
+
+        #connectButton, #openButton {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            margin-left: 10px;
+        }
+
+        #closeButton {
+            background-color: #f44336;
+            border: none;
+            color: white;
+            margin-left: 10px;
+        }
+
+        #connectButton:disabled, #openButton:disabled, #closeButton:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+
+        #commsLog {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        #commsLog th, #commsLog td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+
+        .commslog-data {
+            font-family: Consolas, Courier New, Courier, monospace;
+        }
+
+        .commslog-server, .commslog-client {
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+
+        .commslog-server {
+            background-color: #f44336;
+            color: white;
+        }
+
+        .commslog-client {
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>lab01B</h1>
+    <p id="stateLabel">Ready to connect...</p>
+    <div>
+        <label for="connectionUrl">WebSocket Server URL:</label>
+        <input id="connectionUrl" />
+        <button id="connectButton" type="submit">Connect</button>
+    </div>
+    <p></p>
+    <div>
+        <button id="openButton" type="submit" disabled>Start</button>
+        <button id="closeButton" disabled>Close Socket</button>
+    </div>
+
+    <h2>Communication Log</h2>
+    <table style="width: 800px">
+        <thead>
+            <tr>
+                <td style="width: 100px">From</td>
+                <td style="width: 100px">To</td>
+                <td>Data</td>
+            </tr>
+        </thead>
+        <tbody id="commsLog">
+        </tbody>
+    </table>
+
+    <script>
+        let connectionUrl = document.getElementById("connectionUrl");
+        let connectButton = document.getElementById("connectButton");
+        let stateLabel = document.getElementById("stateLabel");
+        let openButton = document.getElementById("openButton");
+        const commsLog = document.getElementById("commsLog");
+        const closeButton = document.getElementById("closeButton");
+        let socket;
+
+        const scheme = document.location.protocol === "https:" ? "wss" : "ws";
+        const port = document.location.port ? (":" + document.location.port) : "";
+
+        connectionUrl.value = scheme + "://" + document.location.hostname + port + "/ws" ;
+
+        function disable()
+        {
+            openButton.disabled = true;
+            closeButton.disabled = true;
+            connectionUrl.disabled = false;
+            connectButton.disabled = false;
+        }
+        function enable()
+        {
+            openButton.disabled = false;
+            closeButton.disabled = false;
+        }
+        
+        function updateState()
+        {
+            connectionUrl.disabled = true;
+            connectButton.disabled = true;
+
+            if (!socket) {
+                disable();
+            } else {
+                switch (socket.readyState) {
+                    case WebSocket.CLOSED:
+                        stateLabel.innerHTML = "Closed";
+                        disable();
+                        break;
+                    case WebSocket.CLOSING:
+                        stateLabel.innerHTML = "Closing...";
+                        disable();
+                        break;
+                    case WebSocket.CONNECTING:
+                        stateLabel.innerHTML = "Connecting...";
+                        disable();
+                        break;
+                    case WebSocket.OPEN:
+                        stateLabel.innerHTML = "Open";
+                        enable();
+                        break;
+                    default:
+                        stateLabel.innerHTML = "Unknown WebSocket State: " + socket.readyState;
+                        disable();
+                        break;
+                }
+            }
+        }
+
+        closeButton.onclick = function () {
+            if (!socket || socket.readyState !== WebSocket.OPEN) {
+                alert("socket not connected");
+            }
+            commsLog.innerHTML += '<tr>' +
+                '<td colspan="3" class="commslog-data">Connection closed</td>' +
+                '</tr>';
+            socket.close(1000, "Closing from client");
+            updateState();
+        };
+
+        openButton.onclick = function () {
+            if (!socket || socket.readyState !== WebSocket.OPEN) {
+                alert("socket not connected");
+            }
+            stateLabel.innerHTML = "Starting...";
+            socket.send('0');
+        };
+
+        connectButton.onclick = function() {
+            stateLabel.innerHTML = "Connecting";
+            socket = new WebSocket(connectionUrl.value);
+            socket.onopen = function (event) {
+                updateState();
+                commsLog.innerHTML += '<tr>' +
+                    '<td colspan="3" class="commslog-data">Connection opened</td>' +
+                '</tr>';
+            };
+            socket.onerror = updateState;
+            socket.onmessage = function (event) {
+                commsLog.innerHTML += '<tr>' +
+                    '<td class="commslog-server">Server</td>' +
+                    '<td class="commslog-client">Client</td>' +
+                    '<td class="commslog-data">' + htmlEscape(event.data) + '</td></tr>';
+
+                stateLabel.innerHTML = "Receiving...";
+            };
+        };
+
+        function htmlEscape(str) {
+            return str.toString()
+                .replace(/&/g, '&amp;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;');
+        }
+    </script>
+</body>
+</html>

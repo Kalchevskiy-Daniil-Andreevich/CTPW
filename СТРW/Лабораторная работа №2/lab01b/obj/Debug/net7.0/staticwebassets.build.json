@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "FvwqXTbSRbNAXWduH6Ln2QX4ZFzB0OS+hBU+vNdXVkg=",
+  "Source": "lab01b",
+  "BasePath": "_content/lab01b",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lab01b\\wwwroot",
+      "Source": "lab01b",
+      "ContentRoot": "D:\\СТРW\\Лабораторная работа №2\\lab01b\\wwwroot\\",
+      "BasePath": "_content/lab01b",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\СТРW\\Лабораторная работа №2\\lab01b\\wwwroot\\index.html",
+      "SourceId": "lab01b",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\СТРW\\Лабораторная работа №2\\lab01b\\wwwroot\\",
+      "BasePath": "_content/lab01b",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

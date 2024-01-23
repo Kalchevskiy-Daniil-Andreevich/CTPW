@@ -1,0 +1,72 @@
+D:\study\sem5\STRWP\lab01b\bin\Debug\net7.0\lab01b.staticwebassets.runtime.json
+D:\study\sem5\STRWP\lab01b\bin\Debug\net7.0\lab01b.exe
+D:\study\sem5\STRWP\lab01b\bin\Debug\net7.0\lab01b.deps.json
+D:\study\sem5\STRWP\lab01b\bin\Debug\net7.0\lab01b.runtimeconfig.json
+D:\study\sem5\STRWP\lab01b\bin\Debug\net7.0\lab01b.dll
+D:\study\sem5\STRWP\lab01b\bin\Debug\net7.0\lab01b.pdb
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\lab01b.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\lab01b.AssemblyInfoInputs.cache
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\lab01b.AssemblyInfo.cs
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\lab01b.csproj.CoreCompileInputs.cache
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\lab01b.MvcApplicationPartsAssemblyInfo.cache
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.lab01b.Microsoft.AspNetCore.StaticWebAssets.props
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.build.lab01b.props
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab01b.props
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab01b.props
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\staticwebassets.pack.json
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\staticwebassets.build.json
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\staticwebassets.development.json
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\scopedcss\bundle\lab01b.styles.css
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\lab01b.dll
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\refint\lab01b.dll
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\lab01b.pdb
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\lab01b.genruntimeconfig.cache
+D:\study\sem5\STRWP\lab01b\obj\Debug\net7.0\ref\lab01b.dll
+D:\СТРWП\lab01b\bin\Debug\net7.0\lab01b.staticwebassets.runtime.json
+D:\СТРWП\lab01b\bin\Debug\net7.0\lab01b.exe
+D:\СТРWП\lab01b\bin\Debug\net7.0\lab01b.deps.json
+D:\СТРWП\lab01b\bin\Debug\net7.0\lab01b.runtimeconfig.json
+D:\СТРWП\lab01b\bin\Debug\net7.0\lab01b.dll
+D:\СТРWП\lab01b\bin\Debug\net7.0\lab01b.pdb
+D:\СТРWП\lab01b\obj\Debug\net7.0\lab01b.GeneratedMSBuildEditorConfig.editorconfig
+D:\СТРWП\lab01b\obj\Debug\net7.0\lab01b.AssemblyInfoInputs.cache
+D:\СТРWП\lab01b\obj\Debug\net7.0\lab01b.AssemblyInfo.cs
+D:\СТРWП\lab01b\obj\Debug\net7.0\lab01b.csproj.CoreCompileInputs.cache
+D:\СТРWП\lab01b\obj\Debug\net7.0\lab01b.MvcApplicationPartsAssemblyInfo.cache
+D:\СТРWП\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.lab01b.Microsoft.AspNetCore.StaticWebAssets.props
+D:\СТРWП\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.build.lab01b.props
+D:\СТРWП\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab01b.props
+D:\СТРWП\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab01b.props
+D:\СТРWП\lab01b\obj\Debug\net7.0\staticwebassets.pack.json
+D:\СТРWП\lab01b\obj\Debug\net7.0\staticwebassets.build.json
+D:\СТРWП\lab01b\obj\Debug\net7.0\staticwebassets.development.json
+D:\СТРWП\lab01b\obj\Debug\net7.0\scopedcss\bundle\lab01b.styles.css
+D:\СТРWП\lab01b\obj\Debug\net7.0\lab01b.dll
+D:\СТРWП\lab01b\obj\Debug\net7.0\refint\lab01b.dll
+D:\СТРWП\lab01b\obj\Debug\net7.0\lab01b.pdb
+D:\СТРWП\lab01b\obj\Debug\net7.0\lab01b.genruntimeconfig.cache
+D:\СТРWП\lab01b\obj\Debug\net7.0\ref\lab01b.dll
+D:\СТРW\Лабораторная работа №2\lab01b\bin\Debug\net7.0\lab01b.staticwebassets.runtime.json
+D:\СТРW\Лабораторная работа №2\lab01b\bin\Debug\net7.0\lab01b.exe
+D:\СТРW\Лабораторная работа №2\lab01b\bin\Debug\net7.0\lab01b.deps.json
+D:\СТРW\Лабораторная работа №2\lab01b\bin\Debug\net7.0\lab01b.runtimeconfig.json
+D:\СТРW\Лабораторная работа №2\lab01b\bin\Debug\net7.0\lab01b.dll
+D:\СТРW\Лабораторная работа №2\lab01b\bin\Debug\net7.0\lab01b.pdb
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\lab01b.GeneratedMSBuildEditorConfig.editorconfig
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\lab01b.AssemblyInfoInputs.cache
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\lab01b.AssemblyInfo.cs
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\lab01b.csproj.CoreCompileInputs.cache
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\lab01b.MvcApplicationPartsAssemblyInfo.cache
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.lab01b.Microsoft.AspNetCore.StaticWebAssets.props
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.build.lab01b.props
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab01b.props
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab01b.props
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\staticwebassets.pack.json
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\staticwebassets.build.json
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\staticwebassets.development.json
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\scopedcss\bundle\lab01b.styles.css
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\lab01b.dll
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\refint\lab01b.dll
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\lab01b.pdb
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\lab01b.genruntimeconfig.cache
+D:\СТРW\Лабораторная работа №2\lab01b\obj\Debug\net7.0\ref\lab01b.dll
